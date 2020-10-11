@@ -1,3 +1,4 @@
 # jpathan-site
 Code of my personal website.
-See live website at http://jpathan.pythonanywhere.com/
+Currently I have only added a Blog section.
+See live website at https://jpathan.pythonanywhere.com/
